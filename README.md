@@ -33,7 +33,7 @@ This project focuses on predicting customer churn using multiple machine learnin
 
 ## 🏆 Final Model
 **SVM (Support Vector Machine)** was selected as the final model due to its higher recall, making it more effective at identifying churn customers.
-| SVM | 0.838 | **0.804** |
+- | SVM | 0.838 | **0.804** |
 ---
 
 ## 🔍 Key Insights
